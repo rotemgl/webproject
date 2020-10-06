@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+    <config>
+        <browserType>Chrome</browserType>
+    </config>
+    <Item>
+        <URL>https://buyme.co.il</URL>
+    </Item>
+</Root>
+
